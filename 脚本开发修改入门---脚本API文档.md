@@ -84,7 +84,7 @@ Native API由node_cga.node导出
 
 ***
 
-`cga.GetGameServerInfo()`
+`Object cga.GetGameServerInfo()`
 
 返回游戏服务器的基本信息。格式如下：
 
