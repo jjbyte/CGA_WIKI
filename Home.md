@@ -2,15 +2,17 @@
 
 ### 提交BUG： 
 
-群号 300303705 
+https://github.com/hzqst/CGAssistant/issues 
 
-或 https://github.com/hzqst/CGAssistantJS/issues 
+或 群号 300303705
 
 ### 第一次使用请务必读完以下内容：
 
-如果你碰到问题建议先去`常见问题 FAQ`里查询，一般99%的问题在里面都能得到解答！
+如果你碰到问题建议先去`常见问题 FAQ`里查询，一般99%的问题在里面都能得到解答
 
-修改脚本文件建议使用[Visual Studio Code](https://code.visualstudio.com/)
+修改脚本文件建议使用[Visual Studio Code](https://code.visualstudio.com/) 或者 [Sublime Text](http://www.sublimetext.com/)
+
+* 使用系统自带的记事本可能会出现乱码或格式混乱等问题！
 
 入门使用脚本建议直接从根目录的`通用挂机脚本.js`（_不是文件夹！！！_）开始学习
 
@@ -32,9 +34,7 @@
 
 本项目内的所有资源文件和程序，禁止在 GitHub 以外的任何地方进行转载或发布。
 
-本项目的[完整发布包](https://github.com/hzqst/CGAssistantJS)中附带的所有二进制程序（.dll .exe）均可从[源代码](https://github.com/hzqst/CGAssistant)编译而来，源代码接受所有人的监督，并且由[GitHub Actions](https://docs.github.com/en/actions/learn-github-actions)提供的构建服务自动编译，不存在携带任何恶意程序的可能。
-
-即便如此，本项目对使用者的游戏账号安全仍然不作任何保证，使用者必须自己对使用后果负责，包括但不限于由项目中的任何脚本或程序问题导致的任何游戏账号损失或损害。
+本项目对使用者的游戏账号安全仍然不作任何保证，使用者必须自己对使用后果负责，包括但不限于由项目中的任何脚本或程序问题导致的任何游戏账号损失或损害。
 
 本项目遵循 MIT 协议，如果本特别声明与 MIT 协议有冲突之处，以本特别声明为准。
 
