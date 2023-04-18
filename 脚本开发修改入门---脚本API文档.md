@@ -12,7 +12,7 @@ CGAssistant的所有脚本使用javascript（ES6）编写，使用nodejs14作为
 
 ## 开发环境
 
-建议使用[Visual Studio Code](https://code.visualstudio.com/)
+建议使用[Visual Studio Code](https://code.visualstudio.com/) 或者 [Sublime Text](http://www.sublimetext.com/)
 
 ## 脚本入口
 

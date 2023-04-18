@@ -1,4 +1,4 @@
-![](/hzqst/CGAssistantJS/raw/master/img/logo.png)
+![](/hzqst/CGAssistant/raw/master/img2/logo.png)
 
 ### 提交BUG： 
 
